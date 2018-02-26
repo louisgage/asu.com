@@ -1,0 +1,23 @@
+﻿
+body{
+  background: rgb(80,80,80);
+  color: white;
+  font-size: 50px;
+  font-family: Helvetica;
+}
+#img banner{
+    height:30px
+    width:30px
+}
+h{
+  font-family: Courier;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+}
+p{font-size: 30px}
+
+
+
+
+
